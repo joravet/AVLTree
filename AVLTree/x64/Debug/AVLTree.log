@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\jokes\source\repos\AVLTree\AVLTree\main.cpp(35,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\jokes\source\repos\AVLTree\AVLTree\main.cpp(35,16): warning C4244:         with
+C:\Users\jokes\source\repos\AVLTree\AVLTree\main.cpp(35,16): warning C4244:         [
+C:\Users\jokes\source\repos\AVLTree\AVLTree\main.cpp(35,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\jokes\source\repos\AVLTree\AVLTree\main.cpp(35,16): warning C4244:         ]
+  AVLTree.vcxproj -> C:\Users\jokes\source\repos\AVLTree\x64\Debug\AVLTree.exe
